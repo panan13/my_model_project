@@ -10,6 +10,6 @@
 ![image](https://github.com/user-attachments/assets/be1e25aa-f01a-4914-890c-a0faa050fb2f)
 ![image](https://github.com/user-attachments/assets/431f161f-cb57-4db2-b2d9-47481728b122)
 ![image](https://github.com/user-attachments/assets/60942748-912f-4d4e-9232-1b592efe4e9b)
-## 结合我们具体的要求来实现相关的人物，要求的越仔细，完成的越好。
+## 结合我们具体的要求来实相对应的任务，要求的越仔细，完成的越好。
 
 
